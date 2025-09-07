@@ -19,3 +19,5 @@ Language - HTML, CSS, JavaScript
 Clone the repository:
    ```bash
    git clone https://github.com/aman2425/Rock-Paper-Scissors.git
+
+![image alt](https://github.com/aman2425/Rock-Paper-Scissors/blob/bfca008a3103f68816046b80a8b8e73b908abc0e/R%20P%20S.png)
